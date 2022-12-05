@@ -10,7 +10,7 @@ npm install
 ```
 
 ## Usage
-go to the root directory of app.js file and run follwind command
+go to the root directory of app.js file and run follwind command and make sure you have empty port on 5000
 ```python
 node app.js
 ```
